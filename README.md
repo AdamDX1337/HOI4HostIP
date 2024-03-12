@@ -1,6 +1,8 @@
 # HOI4HostIP
 Python script that displays a Hosts IP address on connection.
 
+for some reason the second IP always displayed will be your local ip, IGNORE it!
+
 # 1. Install python.
 # 2. Open an administrator command prompt.
 # 3. Type 'pip install pydivert' into cmd. (first time use only) #Skip this if you already have it
